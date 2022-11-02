@@ -1,0 +1,35 @@
+body{
+background-color:white;
+
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: rgb(182, 137, 224);
+
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(182, 137, 224);
+    padding-left: 400px;
+padding-right: 400px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(212, 191, 226);
+    padding-left: 400px;
+padding-right: 400px;
+}
+
+
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(182, 137, 224);
+    padding-left: 400px;
+    padding-right: 400px;
+}
