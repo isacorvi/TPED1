@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+#principal{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: aqua;
+}
+
+section {
+    background-color: beige;
+}
+
+img {
+    width: 33%;
+    height: auto;
+    filter: saturate(0);
+}
+
+a:hover img {
+    filter: saturate(1);
+}
